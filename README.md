@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **ConnectUs**
 
-- 🌱 I’m currently learning **Solidity**
-
-- 👨‍💻 All of my projects are available at [https://mehradadimi.com](https://mehradadimi.com)
+- 👨‍💻 Some of my projects are available at [https://mehradadimi.com](https://mehradadimi.com)
 
 - 💬 Ask me about **React, NodeJs, Python**
 
