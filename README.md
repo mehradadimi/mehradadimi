@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mehrad</h1>
 <h3 align="center">A Full Stack Software Developer in Canada</h3>
 
-- 🔭 I’m currently working on **ConnectUs**
+- 🔭 I’m currently working on **Passedwords**
 
 - 👨‍💻 Some of my projects are available at [https://mehradadimi.com](https://mehradadimi.com)
 
