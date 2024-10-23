@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mehrad</h1>
 <h3 align="center">A Full Stack Software Developer in Canada</h3>
 
-- 🔭 I’m currently working on **Passedwords**
+- 🔭 I’m currently working on [Passedwords](https://github.com/mehradadimi/PassedWords)
 
 - 👨‍💻 Some of my projects are available at [https://mehradadimi.com](https://mehradadimi.com)
 
